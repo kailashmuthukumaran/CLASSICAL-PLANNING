@@ -1,7 +1,7 @@
 # EX-10 : IMPLEMENTATION OF CLASSICAL PLANNING ALGORITHM 
 
-#### NAME : A.LAHARI
-#### R.NO : 212223230111
+## NAME : A.LAHARI
+## REGISTER NUMBER : 212223230111
 
 ## AIM : 
  To implement the classical planning algorithm using python.
