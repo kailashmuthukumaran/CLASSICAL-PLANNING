@@ -1,7 +1,7 @@
 # EX-10 : IMPLEMENTATION OF CLASSICAL PLANNING ALGORITHM 
 
-## NAME : A.LAHARI
-## REGISTER NUMBER : 212223230111
+## NAME : KAILASH S M 
+## REGISTER NUMBER : 212222040068
 
 ## AIM : 
  To implement the classical planning algorithm using python.
